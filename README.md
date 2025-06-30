@@ -1,2 +1,3 @@
-# Cybersecurity-CTF-Portfolio
+ # Cybersecurity-CTF-Portfolio
 Pentesting  Write-ups of Completed Capture The Flag Challenges
+This portfolio contains comprehensive write-ups for CTF challenges and vulnerable virtual machine exploitations I've successfully tackled across various platforms. Each write-up details the methodology, tools, and insights gained from projects like The Planets: Earth, Jangow, and the Kioptrix virtual machines (Levels 2, 3, and 4), alongside challenges in digital forensics, secure coding practices, and advanced exploitation techniques. My goal is to demonstrate practical problem-solving skills in cybersecurity, reinforcing my commitment to mastering the art of ethical hacking
